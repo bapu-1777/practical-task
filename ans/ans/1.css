@@ -1,0 +1,15 @@
+body{
+    background-color: blanchedalmond;
+}
+#result{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+#btn{
+    font-size: 20px;
+    padding: 5px 5px;
+    margin:5px 5px;
+    text-align: center;
+    color: blanchedalmond;
+    background-color: black;
+}
